@@ -1,6 +1,6 @@
-# Unofficial Fox API in Python
+# Fox API in Python
 
-This is an unofficial api for Fox application in python. With this api you are able to call and fetch specific user information as well as much more.
+Behind this API is a software layer connecting and optimizing communications networks around the world to allow your users to call and fetch specific user information as well as much more.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
